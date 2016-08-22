@@ -33,8 +33,7 @@
     "react-router": "^2.6.1",
     "react-tap-event-plugin": "^1.0.0",
     "sass-brunch": "^2.6.3",
-    "weak-key": "^1.0.0",
-    "uglify-js-brunch": "^2.0.1"
+    "weak-key": "^1.0.0"
   },
   "devDependencies": {
     "eslint": "^3.2.2",
